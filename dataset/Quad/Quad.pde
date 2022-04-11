@@ -27,7 +27,7 @@ void DrawSquare(int n, int c) {
       }
       
      if (c==0) {
-       stroke(159,77,57);
+       stroke(88,41,0);
        quad(20+dispersion[0],20+dispersion[1],60+dispersion[2],20+dispersion[3],60+dispersion[4],60+dispersion[5],20+dispersion[6],60+dispersion[7]);
      }
       if (c==1) {
